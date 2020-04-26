@@ -1,0 +1,24 @@
+
+  body
+    {
+      background-color: #ABC2FF;
+      padding: 100px;
+    }
+  p
+    {
+      font-family: Georgia;
+      font-size: 1.5em;
+      color: #3E4351;
+      text-decoration-color: red;
+    }
+  h1
+    {
+      font-family: Verdana;
+      font-size: 2.5em;
+      text-align: center;
+      color: #323641;
+    }
+  a
+    {
+      color:#282B34;
+    }
