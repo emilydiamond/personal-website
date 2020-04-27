@@ -8,9 +8,9 @@
         background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
 
-        padding-top: 100px;
+        padding-top: 80px;
         padding-right: 150px;
-        padding-bottom: 100px;
+        padding-bottom: 80px;
         padding-left: 150px;
     }
   h1
@@ -36,10 +36,10 @@
         border-bottom: 1.5px solid #b3b3b3;
       }
       a:visited {
-        color: #282B34;
+        color: #323641;
         border-bottom: 1.5px solid #b3b3b3;
       }
       a:hover {
-        color: #57CDF9;
-        border-bottom: 1.5px solid #57CDF9;
+        color: #FF1493;
+        border-bottom: 1.5px solid #FF1493;
       }
