@@ -2,16 +2,20 @@
   body
     {
       /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9e1cf+16,5492ff+96 */
-        background: #f9e1cf; /* Old browsers */
-        background: -moz-linear-gradient(top,  #f9e1cf 16%, #5492ff 96%); /* FF3.6-15 */
-        background: -webkit-linear-gradient(top,  #f9e1cf 16%,#5492ff 96%); /* Chrome10-25,Safari5.1-6 */
-        background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
+      //  background: #f9e1cf; /* Old browsers */
+      //  background: -moz-linear-gradient(top,  #f9e1cf 16%, #5492ff 96%); /* FF3.6-15 */
+      //  background: -webkit-linear-gradient(top,  #f9e1cf 16%,#5492ff 96%); /* Chrome10-25,Safari5.1-6 */
+      //  background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+      //  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
 
-        padding-top: 80px;
-        padding-right: 150px;
+        background-color: #F1F6FF;
+
+        width: 50%;
+        margin: auto;
+        padding-top: 100px;
+        padding-right: 200px;
         padding-bottom: 80px;
-        padding-left: 150px;
+        padding-left: 200px;
     }
   h1
       {
@@ -40,6 +44,6 @@
         border-bottom: 1.5px solid #b3b3b3;
       }
       a:hover {
-        color: #FF1493;
-        border-bottom: 1.5px solid #FF1493;
+        color: #FCC780;
+        border-bottom: 1.5px solid #FCC780;
       }
