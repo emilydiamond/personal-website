@@ -1,24 +1,42 @@
 
   body
     {
-      background-color: #ABC2FF;
+      /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9e1cf+16,3a82ff+92 */
+    background: #f9e1cf; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f9e1cf 16%, #3a82ff 92%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #f9e1cf 16%,#3a82ff 92%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #f9e1cf 16%,#3a82ff 92%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#3a82ff',GradientType=0 ); /* IE6-9 */
+
       padding: 100px;
     }
+  h1
+      {
+        font-family: Verdana;
+        font-size: 2.5em;
+        text-align: center;
+        color: #323641;
+      }
   p
     {
       font-family: Georgia;
       font-size: 1.5em;
-      color: #3E4351;
-      text-decoration-color: red;
-    }
-  h1
-    {
-      font-family: Verdana;
-      font-size: 2.5em;
-      text-align: center;
       color: #323641;
     }
+
   a
     {
-      color:#282B34;
+      text-decoration: none;
     }
+      a:link {
+        color: #000;
+        border-bottom: 1.5px solid #b3b3b3;
+      }
+      a:visited {
+        color: #282B34;
+        border-bottom: 1.5px solid #b3b3b3;
+      }
+      a:hover {
+        color: #57CDF9;
+        border-bottom: 1.5px solid #57CDF9;
+      }
