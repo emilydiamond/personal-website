@@ -37,13 +37,14 @@
     }
       a:link {
         color: #000;
-        border-bottom: 1.5px solid #b3b3b3;
+        border-bottom: 1.5px solid #579DFB;
       }
       a:visited {
         color: #323641;
-        border-bottom: 1.5px solid #b3b3b3;
+        border-bottom: 1.5px solid #579DFB;
+        opacity: 0.6;
       }
       a:hover {
-        color: #FCC780;
-        border-bottom: 1.5px solid #FCC780;
+        color: #E01FE7;
+        border-bottom: 1.5px solid #E01FE7;
       }
