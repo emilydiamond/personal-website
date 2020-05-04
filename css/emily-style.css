@@ -8,7 +8,13 @@
       //  background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
       //  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
 
-        background-color: #F1F6FF;
+        background-color: #F3F6FF;
+    //  background-image: url("hudson river.png");
+    //  background-repeat: no-repeat;
+    //  background-attachment: fixed;
+    //  background-position: top;
+        background-size: cover;
+
 
         width: 50%;
         margin: auto;
@@ -18,16 +24,22 @@
         padding-left: 200px;
     }
   h1
-      {
-        font-family: Verdana;
-        font-size: 2.5em;
-        text-align: center;
+    {
+    //  font-family: Verdana;
+    //  font-family: 'Merriweather', serif;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px;
+        line-height: 38px;
+    //  font-family: 'Roboto', sans-serif;
+        text-align: left;
         color: #323641;
       }
   p
     {
-      font-family: Georgia;
-      font-size: 1.5em;
+  //  font-family: Georgia;
+      font-family: 'Merriweather', serif;
+      font-size: 20px;
+      line-height: 28px;
       color: #323641;
     }
 
@@ -37,14 +49,14 @@
     }
       a:link {
         color: #000;
-        border-bottom: 1.5px solid #579DFB;
+        border-bottom: 1px solid #579DFB;
       }
       a:visited {
         color: #323641;
-        border-bottom: 1.5px solid #579DFB;
+        border-bottom: 1px solid #579DFB;
         opacity: 0.6;
       }
       a:hover {
         color: #E01FE7;
-        border-bottom: 1.5px solid #E01FE7;
+        border-bottom: 1px solid #E01FE7;
       }
