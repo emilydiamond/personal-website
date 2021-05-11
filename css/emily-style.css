@@ -16,12 +16,12 @@
         background-size: cover;
 
 
-        width: 50%;
+        width: 70%;
         margin: auto;
         padding-top: 100px;
-        padding-right: 200px;
+        padding-right: 100px;
         padding-bottom: 80px;
-        padding-left: 200px;
+        padding-left: 100px;
     }
   h1
     {
@@ -35,7 +35,7 @@
     {
       font-family: 'Lora', serif;
       font-size: 40px;
-      line-height: 35px;
+      line-height: 40px;
       color: #F2F3F4;
     }
 
@@ -48,7 +48,7 @@
         border-bottom: 1px solid #579DFB;
       }
       a:visited {
-  //    color: #F2F3F4;
-  //    border-bottom: 1px solid #579DFB;
-  //    opacity: 0.6;
+        color: #F2F3F4;
+        border-bottom: 1px solid #579DFB;
+        opacity: 0.6;
       }
