@@ -8,7 +8,7 @@
       //  background: linear-gradient(to bottom,  #f9e1cf 16%,#5492ff 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
       //  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9e1cf', endColorstr='#5492ff',GradientType=0 ); /* IE6-9 */
 
-        background-color: #F1F6FF;
+        background-color: #16264C;
     //  background-image: url("hudson river.png");
     //  background-repeat: no-repeat;
     //  background-attachment: fixed;
@@ -25,22 +25,18 @@
     }
   h1
     {
-    //  font-family: Verdana;
-    //  font-family: 'Lora', serif;
         font-family: 'Lora', serif;
         font-size: 30px;
         line-height: 38px;
-    //  font-family: 'Roboto', sans-serif;
         text-align: left;
-        color: #323641;
+        color: #F2F3F4;
       }
   p
     {
-  //  font-family: Georgia;
-      font-family: 'Merriweather', serif;
+      font-family: 'Lora', serif;
       font-size: 20px;
       line-height: 28px;
-      color: #323641;
+      color: #F2F3F4;
     }
 
   a
@@ -55,8 +51,4 @@
         color: #323641;
         border-bottom: 1px solid #579DFB;
         opacity: 0.6;
-      }
-      a:hover {
-        color: #E01FE7;
-        border-bottom: 1px solid #E01FE7;
       }
